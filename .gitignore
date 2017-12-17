@@ -16,4 +16,5 @@ buildNumber.properties
 .gitignore
 .idea/
 jsonmagic.iml
-pom.xml
+src/main/resources/
+src/test/
